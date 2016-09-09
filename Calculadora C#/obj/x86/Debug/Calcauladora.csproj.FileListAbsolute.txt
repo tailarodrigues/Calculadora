@@ -1,0 +1,7 @@
+c:\users\taila\documents\visual studio 2010\Projects\Calcauladora\Calcauladora\bin\Debug\Calcauladora.exe
+c:\users\taila\documents\visual studio 2010\Projects\Calcauladora\Calcauladora\bin\Debug\Calcauladora.pdb
+c:\users\taila\documents\visual studio 2010\Projects\Calcauladora\Calcauladora\obj\x86\Debug\Calcauladora.Form1.resources
+c:\users\taila\documents\visual studio 2010\Projects\Calcauladora\Calcauladora\obj\x86\Debug\Calcauladora.Properties.Resources.resources
+c:\users\taila\documents\visual studio 2010\Projects\Calcauladora\Calcauladora\obj\x86\Debug\Calcauladora.csproj.GenerateResource.Cache
+c:\users\taila\documents\visual studio 2010\Projects\Calcauladora\Calcauladora\obj\x86\Debug\Calcauladora.exe
+c:\users\taila\documents\visual studio 2010\Projects\Calcauladora\Calcauladora\obj\x86\Debug\Calcauladora.pdb
